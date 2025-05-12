@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/wechat",
+    "name": "ryx16/wechat",
     "description": "Coroutine safety WeChat library",
     "keywords": [
         "swoole",
